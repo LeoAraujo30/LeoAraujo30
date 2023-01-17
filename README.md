@@ -65,10 +65,10 @@ Olá, me chamo **Leonardo Araujo de Paulo**, sou de São Paulo, Brasil e atualme
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=LeoAraujo30&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="LeoAraujo30" />
+    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeoAraujo30&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="LeoAraujo30" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAraujo30&layout=compact&theme=graywhite&title_color=268bd2" alt="LeoAraujo30" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeoAraujo30&layout=compact&theme=graywhite&title_color=268bd2" alt="LeoAraujo30" />
 </p>
 
 <br />
