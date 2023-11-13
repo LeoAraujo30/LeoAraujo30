@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Olá, me chamo **Leonardo Araujo de Paulo**, sou de São Paulo, Brasil e atualmente estou cursando **Desenvolvimento Web na Trybe** 🚀. 
+Olá, me chamo **Leonardo Araujo de Paulo**, sou de São Paulo, Brasil. Formado em **Desenvolvimento Web na Trybe** 🚀. 
 
 **Meus interesses pessoais:**
 
@@ -25,10 +25,10 @@ Olá, me chamo **Leonardo Araujo de Paulo**, sou de São Paulo, Brasil e atualme
 - 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações.
 -->
 
-- 🤔 Meus hobbies são assistir filmes, series, animes e jogar games singleplayer ou online;
+- 🤔 Meus hobbies são filmes, series, animes e games singleplayer ou online;
 - 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-- 📫 Por favor, envie um email para **leonardo.araujo300301@gmail.com** para me encontrar.
+- 📫 Por favor, envie um email para **leoaraujo30contato@gmail.com** para me encontrar.
 
 <br />
 <br />
