@@ -18,12 +18,11 @@ Olá, me chamo **Leonardo Araujo de Paulo**, sou de São Paulo, Brasil. Formado 
 
 **⚡ Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="375px" />
 <!--
-- 👨🏽‍💻 Estou estudando **Orientação a objetos** para conseguir escrever códigos melhores e mais reutilizáveis;
-- 🌱 Estou aprendendo como fazer testes de integração nas minhas próprias **API**;
-- 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações.
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="375px" />
 -->
+
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajQ3bGZmdWYyaG5uOGRneDJ3NDQ1b3l6emRkdzF6YTY4NG1qNmJoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="375px" />
 
 - 🍿 Gosto de maratonar filmes, series e animes;
 - 🕹️ Apaixonado em jogar games singleplayer ou online;
