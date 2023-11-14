@@ -16,26 +16,29 @@
 
 Olá, me chamo **Leonardo Araujo de Paulo**, sou de São Paulo, Brasil. Formado em **Desenvolvimento Web na Trybe** 🚀. 
 
-**Meus interesses pessoais:**
+**⚡ Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="375px" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
 <!--
 - 👨🏽‍💻 Estou estudando **Orientação a objetos** para conseguir escrever códigos melhores e mais reutilizáveis;
-- 🌱 Estou aprendendo como fazer testes de integração nas minhas próprias **API**; 
+- 🌱 Estou aprendendo como fazer testes de integração nas minhas próprias **API**;
 - 📝 Veja meu Curriculum Vitae <a href="https://gitconnected.com/johnatas-henrique/resume" target="_blank">clicando aqui</a> para mais informações.
 -->
 
-- 🤔 Meus hobbies são filmes, series, animes e games singleplayer ou online;
-- 💼 Estou perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
+- 🍿 Gosto de maratonar filmes, series e animes;
+- 🕹️ Apaixonado em jogar games singleplayer ou online;
+- 🎉 Tenho o costume de festejar com familiares e amigos;
+- ✈️ Adora viajar e conhecer lugares novos quando possível;
+- 💻 Buscando sempre evoluir na minha carreira de desenvolvedor;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-- 📫 Por favor, envie um email para **leoaraujo30contato@gmail.com** para me encontrar.
+- 📫 Para entrar em contato: **leoaraujo30contato@gmail.com**;
 
 <br />
 <br />
 
 ---
 
-**Linguagens e ferramentas:**  
+**🛠️ Linguagens e ferramentas:**  
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -68,11 +71,11 @@ Olá, me chamo **Leonardo Araujo de Paulo**, sou de São Paulo, Brasil. Formado 
 </p>
 
 ---
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoAraujo30&theme=transparent&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAraujo30&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+<div>
+  <img alt="GitHub stats" width="451px" src="https://github-readme-stats.vercel.app/api?username=LeoAraujo30&theme=transparent&hide=contribs"/>
+  <img alt="Top Langs" width="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAraujo30&layout=compact&theme=transparent"/>
+</div>
 
 <br />
 <br />
