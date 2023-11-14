@@ -16,13 +16,14 @@
 
 Olá, me chamo **Leonardo Araujo de Paulo**, sou de São Paulo, Brasil. Formado em **Desenvolvimento Web na Trybe** 🚀. 
 
-**⚡ Meus interesses pessoais:**
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/> **Meus interesses pessoais:**
 
 <!--
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="375px" />
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="375px" />
 -->
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajQ3bGZmdWYyaG5uOGRneDJ3NDQ1b3l6emRkdzF6YTY4NG1qNmJoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="375px" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="375px" />
 
 - 🍿 Gosto de maratonar filmes, series e animes;
 - 🕹️ Apaixonado em jogar games singleplayer ou online;
@@ -37,7 +38,7 @@ Olá, me chamo **Leonardo Araujo de Paulo**, sou de São Paulo, Brasil. Formado 
 
 ---
 
-**🛠️ Linguagens e ferramentas:**  
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skills.gif?raw=true"/>&nbsp; **Linguagens e ferramentas:**  
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -71,13 +72,13 @@ Olá, me chamo **Leonardo Araujo de Paulo**, sou de São Paulo, Brasil. Formado 
 
 ---
 
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/> **GitHub Stats:**
 <div>
   <img alt="GitHub stats" width="451px" src="https://github-readme-stats.vercel.app/api?username=LeoAraujo30&theme=transparent&hide=contribs"/>
   <img alt="Top Langs" width="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAraujo30&layout=compact&theme=transparent"/>
 </div>
 
-<br />
-<br />
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeoAraujo30" alt="LeoAraujo30" /> </p>
 
