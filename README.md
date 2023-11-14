@@ -23,27 +23,15 @@ Olá, me chamo **Leonardo Araujo de Paulo**, sou de São Paulo, Brasil. Formado 
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="375px" />
 -->
 
-<div>
-  <div>
-    <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="375px" />
-  </div>
-  <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/><b> Meus interesses pessoais:</b>
-  <div>
-    <p></p>
-    <p>
-      - 🍿 Gosto de maratonar filmes, series e animes;<br />
-      - 🕹️ Apaixonado em jogar games singleplayer ou online;<br />
-      - 🎉 Tenho o costume de festejar com familiares e amigos;<br />
-      - ✈️ Adora viajar e conhecer lugares novos quando possível;<br />
-      - 💻 Buscando sempre evoluir na minha carreira de desenvolvedor;<br />
-      - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;<br />
-      - 📫 Para entrar em contato: **leoaraujo30contato@gmail.com**;<br />
-      - 📫 Para entrar em contato: **leoaraujo30contato@gmail.com**;<br />
-      - 📫 Para entrar em contato: **leoaraujo30contato@gmail.com**;<br />
-      - 📫 Para entrar em contato: **leoaraujo30contato@gmail.com**;<br />
-    </p>
-  </div>
-</div>
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/> **Meus interesses pessoais:**
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="375px" />
+- 🍿 Gosto de maratonar filmes, series e animes;
+- 🕹️ Apaixonado em jogar games singleplayer ou online;
+- 🎉 Tenho o costume de festejar com familiares e amigos;
+- ✈️ Adora viajar e conhecer lugares novos quando possível;
+- 💻 Buscando sempre evoluir na minha carreira de desenvolvedor;
+- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
+- 📫 Para entrar em contato: leoaraujo30contato@gmail.com;
 
 ---
 
