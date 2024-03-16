@@ -60,7 +60,7 @@ Olá, me chamo **Leonardo Araujo de Paulo**, sou de São Paulo, Brasil. Formado 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
-  <img src="https://camo.githubusercontent.com/8ba0fdaf8e9ed09666decdff3cd38f0aa840bb98b594872cbd14b90caef7069c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f65736c696e742f65736c696e742d69636f6e2e737667" alt="eslint" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
 </p>
 
