@@ -11,16 +11,21 @@
   <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
 </a>
 
----
-
 <details>
   <summary><h1>🇺🇸 Hey 👋, I'm Leo Araujo!!</h1></summary>
+
+  ---
+  
+  <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1100" height="450" />
+  
+  ---
+  
   <h3>I'm from São Paulo, Brazil. I've always been passionate about technology, and today I'm a graduate in Web Development from Trybe.</h3>
   
   ---
   
   <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/> **My personal interests:**
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="375px" />
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="375px" />
   - 🍿 I enjoy binge-watching movies, series, and animes;
   - 🕹️ Passionate about playing single-player or online games;
   - 🎉 I have the habit of celebrating with family and friends;
@@ -80,12 +85,19 @@
 
 <details open>
   <summary><h1>🇧🇷 Olá 👋, eu sou Leo Araujo!!</h1></summary>
-  <h3>Sou de São Paulo, Brasil. Sempre fui apaixonado por tecnologia, e hoje sou formado em Desenvolvimento Web na Trybe.</h3>
+
+  ---
+
+  <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1100" height="450" />
   
   ---
   
+  <h3>Sou de São Paulo, Brasil. Sempre fui apaixonado por tecnologia, e hoje sou formado em Desenvolvimento Web na Trybe.</h3>
+
+  ---
+  
   <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/> **Meus interesses pessoais:**
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="375px" />
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="375px" />
   - 🍿 Gosto de maratonar filmes, series e animes;
   - 🕹️ Apaixonado em jogar games singleplayer ou online;
   - 🎉 Tenho o costume de festejar com familiares e amigos;
