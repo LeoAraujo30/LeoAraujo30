@@ -11,15 +11,15 @@
   <img src="https://i.ibb.co/zmYNW4p/facebook.png" width="48px" height="48px">
 </a>
 
+---
+
 <details>
   <summary><h1>🇺🇸 Hey 👋, I'm Leo Araujo!!</h1></summary>
-
-  ---
-  
   <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1100" height="450" />
-  
-  ---
-  
+    
+  ---  
+
+  <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/> **About me:**
   <h3>I'm from São Paulo, Brazil. I've always been passionate about technology, and today I'm a graduate in Web Development from Trybe.</h3>
   
   ---
@@ -67,12 +67,9 @@
     <img alt="GitHub stats" width="451px" src="https://github-readme-stats.vercel.app/api?username=LeoAraujo30&theme=transparent&hide=contribs"/>
     <img alt="Top Langs" width="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAraujo30&layout=compact&theme=transparent"/>
   </div>
-  
+
   ---
   
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeoAraujo30" alt="LeoAraujo30" /> </p>
-  
-  ⭐️ Based on [CallmeMehdi](https://github.com/CallmeMehdi)
 </details>
 
 
@@ -84,14 +81,12 @@
 
 
 <details open>
-  <summary><h1>🇧🇷 Olá 👋, eu sou Leo Araujo!!</h1></summary>
-
-  ---
-
+  <summary><h1>🇧🇷 Olá 👋, Eu sou Leo Araujo!!</h1></summary>
   <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1100" height="450" />
   
   ---
-  
+
+  <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/> **Sobre mim:**
   <h3>Sou de São Paulo, Brasil. Sempre fui apaixonado por tecnologia, e hoje sou formado em Desenvolvimento Web na Trybe.</h3>
 
   ---
@@ -140,9 +135,10 @@
     <img alt="Top Langs" width="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoAraujo30&layout=compact&theme=transparent"/>
   </div>
   
-  ---
-  
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=LeoAraujo30" alt="LeoAraujo30" /> </p>
-  
-  ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
 </details>
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LeoAraujo30" alt="LeoAraujo30" /> </p>
+
+⭐️ From [LeoAraujo30](https://github.com/LeoAraujo30)
