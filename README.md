@@ -16,7 +16,7 @@
 <details>
   <summary><h1>🇺🇸 Hey 👋, I'm Leo Araujo!!</h1></summary>
   <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1100" height="450" />
-    
+  
   ---  
 
   <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/> **About me:**
