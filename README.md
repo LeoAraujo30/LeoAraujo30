@@ -30,26 +30,26 @@
   
   <img height="20" alt="GIF" src="https://github.com/LeoAraujo30/LeoAraujo30/blob/main/gifs/skills.gif"/>&nbsp; **Languages and tools:**
   <p align="left">
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="45" height="45" /></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/></code>
-    <code><img src="https://github.com/LeoAraujo30/LeoAraujo30/blob/main/img/rtl.png" alt="rtl" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="45" height="45" /></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" width="45" height="45" /></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-original.svg" alt="mocha" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" /></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="45" height="45" /></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-plain-wordmark.svg" alt="eslint" width="45" height="45" /></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45" /></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/html5/html5-plain-wordmark.svg" alt="html5" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/css3/css3-plain-wordmark.svg" alt="css3" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/jest/jest-plain.svg" alt="jest" width="45" height="45" /></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/></code>
+    <code><img src="https://github.com/LeoAraujo30/LeoAraujo30/blob/main/icons/reacttestlibrary/rtl.png" alt="rtl" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="45" height="45" /></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" width="45" height="45" /></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/mocha/mocha-original.svg" alt="mocha" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" /></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="45" height="45" /></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/eslint/eslint-plain-wordmark.svg" alt="eslint" width="45" height="45" /></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/linux/linux-original.svg" alt="linux" width="45" height="45" /></code>
   </p>
   
   ---
@@ -97,26 +97,26 @@
   
   <img height="20" alt="GIF" src="https://github.com/LeoAraujo30/LeoAraujo30/blob/main/gifs/skills.gif"/>&nbsp; **Linguagens e ferramentas:**
   <p align="left">
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="45" height="45" /></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/></code>
-    <code><img src="https://github.com/LeoAraujo30/LeoAraujo30/blob/main/img/rtl.png" alt="rtl" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="45" height="45" /></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" width="45" height="45" /></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mocha/mocha-original.svg" alt="mocha" width="45" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" /></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="45" height="45" /></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="45"/></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-plain-wordmark.svg" alt="eslint" width="45" height="45" /></code>
-    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45" /></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/html5/html5-plain-wordmark.svg" alt="html5" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/css3/css3-plain-wordmark.svg" alt="css3" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/jest/jest-plain.svg" alt="jest" width="45" height="45" /></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/redux/redux-original.svg" alt="redux" width="45" height="45"/></code>
+    <code><img src="https://github.com/LeoAraujo30/LeoAraujo30/blob/main/icons/reacttestlibrary/rtl.png" alt="rtl" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="45" height="45" /></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" width="45" height="45" /></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/mocha/mocha-original.svg" alt="mocha" width="45" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" /></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="45" height="45" /></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/eslint/eslint-plain-wordmark.svg" alt="eslint" width="45" height="45" /></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/linux/linux-original.svg" alt="linux" width="45" height="45" /></code>
   </p>
   
   ---
