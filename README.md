@@ -11,7 +11,7 @@
   
   ---  
 
-  <img height="20" alt="GIF" src="https://github.com/LeoAraujo30/LeoAraujo30/blob/main/gifs/soulgem.gif"/> **About me:**
+  <img height="20" alt="GIF" src="https://github.com/LeoAraujo30/LeoAraujo30/blob/main/gifs/rocket.gif"/> **About me:**
   <h3>I'm from São Paulo, Brazil. I've always been passionate about technology, and today I'm a graduate in Web Development from Trybe.</h3>
   
   ---
@@ -78,7 +78,7 @@
   
   ---
 
-  <img height="20" alt="GIF" src="https://github.com/LeoAraujo30/LeoAraujo30/blob/main/gifs/soulgem.gif"/> **Sobre mim:**
+  <img height="20" alt="GIF" src="https://github.com/LeoAraujo30/LeoAraujo30/blob/main/gifs/rocket.gif"/> **Sobre mim:**
   <h3>Sou de São Paulo, Brasil. Sempre fui apaixonado por tecnologia, e hoje sou formado em Desenvolvimento Web na Trybe.</h3>
 
   ---
