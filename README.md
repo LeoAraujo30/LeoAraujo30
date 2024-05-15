@@ -47,7 +47,7 @@
     <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/mocha/mocha-original.svg" alt="mocha" width="45" height="45"/></code>
     <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" /></code>
     <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="45" height="45" /></code>
-    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/git/git-plain-wordmark.svg" alt="git" width="45" height="45"/></code>
     <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/eslint/eslint-plain-wordmark.svg" alt="eslint" width="45" height="45" /></code>
     <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/linux/linux-original.svg" alt="linux" width="45" height="45" /></code>
   </p>
@@ -114,7 +114,7 @@
     <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/mocha/mocha-original.svg" alt="mocha" width="45" height="45"/></code>
     <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" /></code>
     <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/pytest/pytest-original-wordmark.svg" alt="pytest" width="45" height="45" /></code>
-    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="45"/></code>
+    <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/git/git-plain-wordmark.svg" alt="git" width="45" height="45"/></code>
     <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/eslint/eslint-plain-wordmark.svg" alt="eslint" width="45" height="45" /></code>
     <code><img src="https://raw.githubusercontent.com/LeoAraujo30/LeoAraujo30/main/icons/linux/linux-original.svg" alt="linux" width="45" height="45" /></code>
   </p>
