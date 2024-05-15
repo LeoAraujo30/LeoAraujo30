@@ -1,7 +1,7 @@
-<a href="https://github.com/LeoAraujo30" target="_blank"><img src="https://github.com/LeoAraujo30/LeoAraujo30/blob/main/img/github6.png" alt="github-logo" width="48px" height="48px"/></a>
-<a href="https://www.linkedin.com/in/leoaraujo30/" target="_blank"><img src="https://github.com/LeoAraujo30/LeoAraujo30/blob/main/img/linkedin3.png" alt="linkedin-logo" width="48px" height="48px"></a>
-<a href="https://www.instagram.com/leo_araujo30/" target="_blank"><img src="https://github.com/LeoAraujo30/LeoAraujo30/blob/main/img/insta3.png" alt="instagram-logo" width="48px" height="48px"></a> 
-<a href="https://www.facebook.com/profile.php?id=100007290915369" target="_blank"><img src="https://github.com/LeoAraujo30/LeoAraujo30/blob/main/img/facebook.png" alt="facebook-logo" width="48px" height="48px"></a>
+<a href="https://github.com/LeoAraujo30" target="_blank"><img src="https://github.com/LeoAraujo30/LeoAraujo30/blob/main/others/github6.png" alt="github-logo" width="48px" height="48px"/></a>
+<a href="https://www.linkedin.com/in/leoaraujo30/" target="_blank"><img src="https://github.com/LeoAraujo30/LeoAraujo30/blob/main/others/linkedin3.png" alt="linkedin-logo" width="48px" height="48px"></a>
+<a href="https://www.instagram.com/leo_araujo30/" target="_blank"><img src="https://github.com/LeoAraujo30/LeoAraujo30/blob/main/others/insta3.png" alt="instagram-logo" width="48px" height="48px"></a> 
+<a href="https://www.facebook.com/profile.php?id=100007290915369" target="_blank"><img src="https://github.com/LeoAraujo30/LeoAraujo30/blob/main/others/facebook.png" alt="facebook-logo" width="48px" height="48px"></a>
 
 ---
 
