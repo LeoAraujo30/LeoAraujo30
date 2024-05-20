@@ -103,6 +103,12 @@ Durante todo esse período de aprendizado, tive a oportunidade de desenvolver pr
   - 🎉 Tenho o costume de festejar com familiares e amigos;
   - ✈️ Adora viajar e conhecer lugares novos quando possível;
   - 🗣️ Estou estudando e praticando meu inglês;
+  - 🗣️ Estou estudando e praticando meu inglês;
+  - 🗣️ Estou estudando e praticando meu inglês;
+  - 🗣️ Estou estudando e praticando meu inglês;
+  - 🗣️ Estou estudando e praticando meu inglês;
+  - 🗣️ Estou estudando e praticando meu inglês;
+  - 🗣️ Estou estudando e praticando meu inglês;
   - 💻 Buscando sempre evoluir na minha carreira de desenvolvedor;
   - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
   - 📫 Para entrar em contato: leoaraujo30contato@gmail.com;
